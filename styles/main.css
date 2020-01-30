@@ -1900,10 +1900,10 @@ mark {
 
       @font-face{
      font-family: '思源黑体'; 
-     src: url('../font/思源黑体.eot');
-     src:url('../font/思源黑体.woff') format('woff'),
-         url('../font/思源黑体.ttf') format('truetype'),
-         url('../font/思源黑体.svg') format('svg');
+     src: url('..⁨Gridea/themes/tech⁩/assets/media/font⁩/思源黑体.eot');
+     src:url('..Gridea/themes/tech⁩/assets/media/font⁩/思源黑体.woff') format('woff'),
+         url('..Gridea/themes/tech⁩/assets/media/font⁩/思源黑体.ttf') format('truetype'),
+         url('..Gridea/themes/tech⁩/assets/media/font⁩/思源黑体.svg') format('svg');
 h1{font-size:36px; color:#ccc;font-family: "思源黑体";}
 
     

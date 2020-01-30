@@ -1904,7 +1904,7 @@ mark {
          url('/styles/font/苹方.ttf') format('truetype'),
          url('/styles/font/苹方.svg') format('svg');
 }
-body {
+body,h1,h2,h3,h4,h5,h6 {
   font-family:"苹方" !important;
 }
     

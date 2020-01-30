@@ -1902,7 +1902,7 @@ mark {
   src: url('/styles/font/思源黑体.eot');
      src:url('/styles/font/思源黑体.woff') format('woff'),
          url('/styles/font/思源黑体.ttf') format('truetype'),
-         url('/styles/media/font/思源黑体.svg') format('svg');
+         url('/styles/font/思源黑体.svg') format('svg');
 }
 body {
   font-family:"思源黑体" !important;

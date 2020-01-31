@@ -1898,13 +1898,13 @@ mark {
   margin: 0 4px;
 }
 
-      @font-face {font-family: "苹方";
-  src: url('/styles/font/苹方.eot');
-     src:url('/styles/font/苹方.woff') format('woff'),
-         url('/styles/font/苹方.ttf') format('truetype'),
-         url('/styles/font/苹方.svg') format('svg');
+      @font-face {font-family: "黑体";
+  src: url('/styles/font/黑体.eot');
+     src:url('/styles/font/黑体.woff') format('woff'),
+         url('/styles/font/黑体.ttf') format('truetype'),
+         url('/styles/font/黑体.svg') format('svg');
 }
 body,h1,h2,h3,h4,h5,h6 {
-  font-family:"苹方" !important;
+  font-family:"黑体" !important;
 }
     

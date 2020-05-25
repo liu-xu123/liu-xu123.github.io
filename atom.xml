@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liu-xu123.github.io/</id>
     <title>ITTEN design</title>
-    <updated>2020-01-31T04:39:04.348Z</updated>
+    <updated>2020-05-25T15:21:46.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liu-xu123.github.io/"/>
     <link rel="self" href="https://liu-xu123.github.io/atom.xml"/>
@@ -11,11 +11,11 @@
     <icon>https://liu-xu123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ITTEN design</rights>
     <entry>
-        <title type="html"><![CDATA[Contact]]></title>
-        <id>https://liu-xu123.github.io/post/post|Contect</id>
-        <link href="https://liu-xu123.github.io/post/post|Contect">
+        <title type="html"><![CDATA[枯山水茶具-产品设计]]></title>
+        <id>https://liu-xu123.github.io/post/kNtwYVYNH</id>
+        <link href="https://liu-xu123.github.io/post/kNtwYVYNH">
         </link>
-        <updated>2020-01-28T09:08:00.000Z</updated>
+        <updated>2020-05-25T14:45:50.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[About ITTEN]]></title>
